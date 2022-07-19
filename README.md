@@ -16,4 +16,7 @@ gitHub学习笔记
 ![image](https://user-images.githubusercontent.com/105366249/179750918-c2e9edb0-d35e-42af-8ccd-c8a7db040541.png)
 5. 点击readme.md修改并提交
 
-
+# 拉取请求  
+## 有了新的分支之后要想合并到main主线上就需要如下操作  
+1. 创建一个新的请求  
+2. 合并这个新的请求
